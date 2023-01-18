@@ -9,3 +9,7 @@ gerçekleştiren,ardından sayfayı kapatıp 10 saniye bekledikten sonra aynı
 işlemi tekrar gerçekleştiren ve bunun 10 defa tekrarlandığı test otomasyon 
 projesidir.
 
+
+
+https://user-images.githubusercontent.com/74559017/213147120-8aef6fa5-3349-4c53-8016-b82aa7bde12b.mp4
+
